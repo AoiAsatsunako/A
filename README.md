@@ -1,16 +1,15 @@
 <html>
-<head> 
-<title>9C
+<head>
+<title>
+01010111 01100001 01101011 01100101 00100000 01110101 01110000 00100000 01110011 01100001 01101101 01110101 01110010 01100001 01101001 00100000 01110111 01100101 00100000 01100111 01101111 01110100 00100000 01100001 00100000 01100011 01101001 01110100 01111001 00100000 01110100 01101111 00100000 01100010 01110101 01110010 01101110 
 </title>
 </head>
 <body background=>
-<img src=""> bruh </img>  
-<H2 align="center">THIS IS AN EXAMPLE OF BACKGROUND</H2>
-<p align="right">This is another example
-<p>
- 
-
-
-
+<img src="![maxresdefault](https://user-images.githubusercontent.com/97576793/149061285-77d423aa-5fc4-4ad7-ab70-a81e90f1a254.jpg)
+"></img>  
+<H2 align="center">
+程诚汉记
+</H2>
+<p align="center">ほう… 向かってくるのか逃げずにこのDIOに近づいてくるのか
 </body>
 </html>
